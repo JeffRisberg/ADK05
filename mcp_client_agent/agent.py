@@ -6,7 +6,7 @@ from google.adk.tools.mcp_tool.mcp_session_manager import StdioConnectionParams
 from mcp import StdioServerParameters
 
 # IMPORTANT: Replace this with the ABSOLUTE path to your my_adk_mcp_server.py script
-PATH_TO_YOUR_MCP_SERVER_SCRIPT = "/Users/jeff/Documents/ADK05/my_adk_mcp_server.py" # <<< REPLACE
+PATH_TO_YOUR_MCP_SERVER_SCRIPT = "/Users/jeff/Documents/DevPython/ADK05/my_adk_mcp_server.py" # <<< REPLACE
 
 if PATH_TO_YOUR_MCP_SERVER_SCRIPT == "/path/to/your/my_adk_mcp_server.py":
     print("WARNING: PATH_TO_YOUR_MCP_SERVER_SCRIPT is not set. Please update it in agent.py.")
