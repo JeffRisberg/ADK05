@@ -35,6 +35,12 @@ You can also run the app with:
 adk web
 ```
 
+Example queries
+
+```
+load the content from https://example.com
+```
+
 # Close with deactivation of venv
 
 ```
