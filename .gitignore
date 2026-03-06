@@ -19,3 +19,4 @@ build/
 .env
 sessions.db
 
+mcp_client_agent/.adk/
